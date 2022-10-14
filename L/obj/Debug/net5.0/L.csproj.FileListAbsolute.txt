@@ -1,0 +1,16 @@
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\bin\Debug\net5.0\L.exe
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\bin\Debug\net5.0\L.deps.json
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\bin\Debug\net5.0\L.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\bin\Debug\net5.0\L.runtimeconfig.dev.json
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\bin\Debug\net5.0\L.dll
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\bin\Debug\net5.0\L.pdb
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\obj\Debug\net5.0\L.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\obj\Debug\net5.0\L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\obj\Debug\net5.0\L.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\obj\Debug\net5.0\L.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\obj\Debug\net5.0\L.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\obj\Debug\net5.0\L.dll
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\obj\Debug\net5.0\refint\L.dll
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\obj\Debug\net5.0\L.pdb
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\obj\Debug\net5.0\L.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\SOLID\SOLID\L\obj\Debug\net5.0\ref\L.dll
